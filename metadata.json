@@ -1,0 +1,6 @@
+{
+  "name": "Kaveri Crunch — Order-to-Audit ERP",
+  "description": "Full-stack Order-to-Audit manufacturing ERP for South Indian snack operations: field orders, BOM production runs, FIFO costing, GST invoicing, ledger inventory, and audit reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
